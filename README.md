@@ -44,6 +44,8 @@ This is a **basic-level project** built using **Laravel 12**, created for beginn
    ```bash
    cp .env.example .env
    ```
+   Set the database details in the .env file according to your database configuration.
+
 6. **Generate the application key**
 
    ```bash
